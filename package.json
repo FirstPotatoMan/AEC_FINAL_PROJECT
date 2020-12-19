@@ -1,0 +1,18 @@
+{
+  "name": "tfjsgan",
+  "version": "1.0.0",
+  "description": "A wrapper for ESRGAN made with tensorflow.js to run ESRGAN with node.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "start": "node index"
+  },
+  "author": "Aditya Jain",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^2.6.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
