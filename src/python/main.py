@@ -21,7 +21,7 @@ import matplotlib.pyplot as plt
 os.environ["TFHUB_DOWNLOAD_PROGRESS"] = "True"
 
 # Declaring Constants
-IMAGE_PATH = "GeFvQkBbSLaMdpKXF1Zv_bigstock-Aerial-View-Of-Blue-Lakes-And--227291596.jpg"
+IMAGE_PATH = "path/to/image.jpg" # path to your image
 SAVED_MODEL_PATH = "https://tfhub.dev/captain-pool/esrgan-tf2/1"
 
 def preprocess_image(image_path):
