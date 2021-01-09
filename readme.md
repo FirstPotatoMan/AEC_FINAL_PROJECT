@@ -12,9 +12,6 @@ npm run build
 npm run start
 ```
 
-## Future Releases
-I may end up converting this to work in the browser, in a svelte app. Stay tuned!
-
 ## Resources
 * https://www.tensorflow.org/hub/tutorials/image_enhancing
 * https://tfhub.dev/captain-pool/esrgan-tf2/1
